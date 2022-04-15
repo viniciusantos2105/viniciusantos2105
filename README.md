@@ -1,7 +1,7 @@
 Iniciando na carreira de programação
 e com muita vontade de aprender!!
 
-- 🌱 Estudando react no momento
+- 🌱 Estudando java no momento
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
