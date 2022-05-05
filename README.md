@@ -1,7 +1,7 @@
 Iniciando na carreira de programação
 e com muita vontade de aprender!!
 
-- 🌱 Estudando java no momento
+- 🚀 Estudando java no momento
 
 <div align="center">
   <a href="">
