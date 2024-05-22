@@ -1,7 +1,7 @@
 Estagiario de programação
 e com muita vontade de aprender!!
 
-- 🚀 Estudando javascript e nodeJs no momento
+- 🚀 Estudando Kafka e Jenkins no momento
 
 <div align="center">
   <a href="https://github.com/viniciusantos2105">
