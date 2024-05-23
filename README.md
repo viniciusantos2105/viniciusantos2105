@@ -2,7 +2,7 @@ Estagiario de programação
 e com muita vontade de aprender!!
 
 - 🚀 Estudando Kafka e Jenkins no momento
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusantos2105&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusantos2105" /> </p>
 <div align="center">
   <a href="https://github.com/viniciusantos2105">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=viniciusantos2105&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
